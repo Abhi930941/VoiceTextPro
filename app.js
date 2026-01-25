@@ -1,4 +1,3 @@
-// Enhanced Speech-to-Text Application - VoiceText Pro
 class SpeechToTextPro {
     constructor() {
         this.recognition = null;
@@ -304,8 +303,7 @@ class SpeechToTextPro {
         
         const page = target.dataset.page;
         if (!page) return;
-        
-        // Hide all pages
+
         if (this.pages) {
             this.pages.forEach(p => p.classList.remove('visible'));
         }
@@ -977,7 +975,6 @@ class SpeechToTextPro {
             // Capitalize after sentence endings
             text = text.replace(/([.!?]\s+)([a-z])/g, (match, p1, p2) => p1 + p2.toUpperCase());
             
-            // Fix common issues
             text = text.replace(/\bi\b/g, 'I'); // Capitalize standalone 'i'
             text = text.replace(/\s+$/g, ''); // Remove trailing spaces
             

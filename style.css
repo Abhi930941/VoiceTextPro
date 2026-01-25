@@ -35,7 +35,7 @@
   --shadow-heavy: 0 20px 60px rgba(0, 0, 0, 0.5);
 }
 
-/* Reset and Base Styles */
+/* Base Styles */
 * {
   margin: 0;
   padding: 0;
@@ -58,7 +58,7 @@ body {
   min-height: 100vh;
 }
 
-/* Enhanced Navigation */
+/* Navigation */
 .navbar {
   background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
   backdrop-filter: blur(10px);
@@ -213,7 +213,7 @@ body {
   padding: 0 1rem;
 }
 
-/* Enhanced Home Page */
+/* Home Page */
 .hero-section {
   background: var(--gradient);
   color: white;
@@ -474,7 +474,7 @@ body {
   box-shadow: 0 15px 40px rgba(255, 255, 255, 0.2);
 }
 
-/* Quick Features Section */
+/* Features Section */
 .quick-features {
   padding: clamp(4rem, 10vh, 6rem) 1rem;
   background: var(--background-secondary);
@@ -2118,7 +2118,7 @@ footer {
   }
 }
 
-/* Dark Mode Improvements */
+/* Dark Mode  */
 @media (prefers-color-scheme: dark) {
   :root {
     --text-primary: #f9fafb;
@@ -2130,7 +2130,7 @@ footer {
   }
 }
 
-/* Accessibility Improvements */
+/* Accessibility */
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,
@@ -2169,7 +2169,7 @@ footer {
   }
 }
 
-/* Focus Styles for Better Accessibility */
+/* Focus Styles  */
 button:focus,
 input:focus,
 select:focus,
@@ -2179,7 +2179,6 @@ textarea:focus,
   outline-offset: 2px;
 }
 
-/* High Contrast Mode Support */
 @media (prefers-contrast: high) {
   :root {
     --border-color: #000000;
