@@ -89,7 +89,6 @@ User Interface (HTML/CSS)
 - **Copy:** Click "Copy" to copy transcript to clipboard
 - **Save TXT:** Download as plain text file
 - **Save PDF:** Generate professionally formatted PDF
-- **Share:** Use native browser sharing
 
 ---
 
@@ -107,7 +106,7 @@ voicetext-pro/
 
 ## Demo & Links
 
-**Live Demo:** [Add your deployment link]  
+**Live Demo:** https://abhi930941.github.io/VoiceTextPro/ 
 **GitHub Repository:** https://github.com/Abhi930941/VoiceTextPro
 
 ---
