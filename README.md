@@ -106,7 +106,7 @@ voicetext-pro/
 
 ## Demo & Links
 
-**Live Demo:** https://abhi930941.github.io/VoiceTextPro/ 
+**Live Demo:** https://abhi930941.github.io/VoiceTextPro/      
 **GitHub Repository:** https://github.com/Abhi930941/VoiceTextPro
 
 ---
