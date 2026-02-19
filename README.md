@@ -104,10 +104,21 @@ voicetext-pro/
 
 ---
 
-## Demo & Links
+## Demo & Screenshots
 
 **Live Demo:** https://abhi930941.github.io/VoiceTextPro/      
-**GitHub Repository:** https://github.com/Abhi930941/VoiceTextPro
+**GitHub Repository:** https://github.com/Abhi930941/VoiceTextPro                                                                                                               
+**Screenshots:**
+<table>
+  <tr>
+    <td><img src="screenshots/Screenshot 2026-02-19 063246.png" alt="Home Page" /></td>
+    <td><img src="screenshots/Screenshot 2026-02-19 063417.png" alt="Transcription Page" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Home Page</b></td>
+    <td align="center"><b>Transcription Page</b></td>
+  </tr>
+</table>
 
 ---
 
